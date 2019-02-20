@@ -1,0 +1,327 @@
+body{
+	width: 100%;
+	margin-top: 0px;
+	
+	
+}
+.header{
+	background-color: #334872;
+	width: 100%;
+	height:  108px;
+	display: flex;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100%;
+}
+.logo{
+	
+	width: 50%;
+	padding-left: 101px;
+	padding-top: 11px;
+}
+.menu{
+	
+	width: 50%;
+}
+
+.spmenu{
+	padding-right: 95px;
+	padding-left: 80px;
+	padding-top: 47px;
+	margin-top: 0px;
+}
+.spmenu li{
+	display: inline-block;
+	padding-left: 15px;
+	padding-right: 15px;
+	 
+}
+.spmenu li:first-child{
+	padding-left: 0px;
+	color: #e7746f;
+}
+
+.spmenu a{
+	font-size: 16px;
+	font-family: arial;
+	font-weight: bold;
+	color: white;
+	text-decoration-line:  none;
+}
+
+.products{
+	height: 490px;
+	width: 100%;
+	background-color: #ff0000;
+}
+.pic1{
+	height: 524px;
+}
+
+.blokname h1{
+	margin-top: 0px;
+	padding-top: 41.7px;
+	padding-left: 585px;
+	margin-bottom: 0px;
+	font-size: 30px;
+	font-family: arial;
+	font-weight: bold;
+	color: white;
+}
+.blokname a{
+	text-decoration-color: white;
+text-decoration-line: none;
+}
+.blokname hr{
+	width: 179px;
+	color: white;
+	margin-left: 579.5px;
+	background-color: white;
+	margin-bottom: 0px;
+}
+.bloktext{
+	display: flex;
+}
+.bloktext img{
+	padding-top: 72px;
+	padding-left: 250px;
+}
+.information{
+	margin-left: 23px;
+	margin-top: 67px;
+	width: 510px;
+}
+.information h2{
+	margin-top: 0px;
+	font-size: 24px;
+	font-family: arial;
+	color: white;
+	margin-bottom: 7px;
+}
+.information p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+
+}
+.information span{
+font-size: 16px;
+	font-family: arial;
+	color: white;
+	line-height: 1.8em;
+}
+
+.productbutton{
+	padding-top: 39px;
+	padding-left: 591.5px;	
+}
+
+.as{
+   	width: 186px;
+	height: 46px;
+	background-color: #5d0808;
+	border: 1px solid #e90101;
+   	font-size: 18px;
+	font-family:arial;
+	color: white;
+	font-weight: bold;
+}
+.rules{
+	width: 100%;
+	height: 365px;
+	background-color: white;
+	
+}
+
+.blokname1 h1{
+	margin-top: 0px;
+	padding-top: 39px;
+	padding-left: 625px;
+	margin-bottom: 0px;
+	font-size: 30px;
+	font-family: arial;
+	font-weight: bold;
+	color: #2f2f2f;
+}
+.blokname1 a{
+	text-decoration-line: none;
+}
+.blokname1 hr{
+	width: 105px;
+	color: #2f2f2f;
+	margin-left: 623px;
+	background-color: #2f2f2f;
+	margin-bottom: 0px;
+}
+.rulestext{
+	display: flex;
+}
+.check{
+	padding-left: 250px;
+	padding-top: 30px;
+}
+.check1{
+	margin-bottom: 45px;
+}
+.check2{
+	margin-bottom: 45px;
+}
+.paragraph{
+	width: 789px;
+	padding-left: 23px;
+	padding-top: 30px;
+}
+.paragraph p{
+	font-size: 16px;
+	font-family: arial;
+	color: #2f2f2f;
+	margin-top: 0px;
+	margin-bottom: 36px;
+	line-height: 1.8em;
+}
+.paragraph p:last-child{
+	margin-bottom: 0px;
+}
+
+.contact{
+	height: 585px;
+	width: 100%;
+	background-color: #ff0000;
+}
+.contactname h1{
+	margin-top: 0px;
+	padding-top: 39px;
+	padding-left: 585px;
+	margin-bottom: 0px;
+	font-size: 30px;
+	font-family: arial;
+	font-weight: bold;
+	color: white;
+}
+.contactname a{
+	text-decoration-line: none;
+}
+.contactname hr{
+	width: 189px;
+	color: white;
+	margin-left: 586px;
+	background-color: white;
+	margin-bottom: 0px;
+}
+.form0{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	margin-top: 50px;
+}
+
+.form1 {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+}
+
+.form_element {
+	display: flex;
+	flex-direction: row;
+	width: 850px;
+	justify-content: space-between; 
+	align-items: center;
+	margin-bottom: 21px;
+}
+
+.label_input {
+	font-family: arial;
+	position: relative;
+	text-transform: uppercase;
+	text-align: end;
+	font-size: 24px;
+	color: white;
+}
+
+.form_input {
+	
+	width: 713px;
+	height: 45px;
+}
+
+.text_area {
+	height: 82px !important;
+}
+
+.pidval{
+	width: 100%;
+	height: 267px;
+	background-color: #334872;
+	display: flex;
+}
+.pidvalmenu{
+	
+	width: 50%;
+}
+
+.sppidvalmenu{
+	padding-top: 47px;
+	margin-left: 105px;
+	margin-top: 0px;
+}
+.sppidvalmenu li{
+	display: block;
+	margin-bottom: 21px;
+	 
+}
+
+
+.sppidvalmenu a{
+	font-size: 18px;
+	font-family: arial;
+	color: #b8b8ba;
+	text-decoration-line: none;
+	text-transform: uppercase;
+	font-weight: 100;
+}
+
+.pidvalpicter{
+	margin-top: 52px;
+	margin-left:366px;
+	display: flex; 
+}
+.pidvalpicter img{
+	padding-right: 10px;
+}
+
+.pidvaltext{
+	
+	width: 50%;
+}
+
+.sppidvaltext{
+	padding-top: 105px;
+	margin-left: 277px;
+	margin-top: 0px;
+	width:320px; 
+}
+.sppidvaltext li{
+	display: block;
+	padding-right:8px; 
+	
+	display: inline;
+}
+
+
+.sppidvaltext a{
+	font-size: 18px;
+	font-family: arial;
+	color: #bfbebe;
+	text-decoration-line: none;
+	text-transform: uppercase;
+	font-weight: 100;
+	
+}
+.sppidvaltext li:last-child{
+	padding-left: 8px;
+	border-left: 2px solid #a3a5ad;
+}
